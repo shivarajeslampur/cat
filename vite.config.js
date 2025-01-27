@@ -5,3 +5,4 @@ export default defineConfig({
   base: '/weather1/', // This matches your GitHub repository name
   plugins: [react()],
 });
+ 
